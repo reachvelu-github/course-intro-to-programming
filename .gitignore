@@ -1,0 +1,21 @@
+# Compiled files
+*.class
+*.pyc
+__pycache__/
+*.o
+*.exe
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Student work (optional - remove if you want students to commit)
+# */*/activity-*/javascript/index.js
+# */*/activity-*/python/main.py
+# */*/activity-*/java/Main.java
